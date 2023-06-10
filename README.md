@@ -13,4 +13,6 @@ For either script to work you need to follow these steps:
 5. to run on startup navigate to the autohotkey folder, right click the "winsearch.ahk" or "capslocksearch.ahk" file and create a shortcut.
 6. press win+r (alt+r if the script is running) and type shell:startup and drag in the shortcut file in there.
 
+Due to limitations within autohotkey maintaining the standard windows key functionality along with this script is not possible (to my knowledge) hence using capslock as the alternative.
+
 Enjoy :)
