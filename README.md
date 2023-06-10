@@ -3,7 +3,7 @@ capslocksearch.ahk replaces "caps lock" with the powertoys alt+space search.
 
 winsearch.ahk replaces the windows key with the powertoys alt+space search.
 
-Please note for winsearch.ahk: It disables the windows key typical function including win + d/s/a/w for resizing windows etc... (potential change in the future to accomodate these standard features) It also changes the win + r function for run to alt + r. 
+Please note for winsearch.ahk: It disables the windows key typical function including win + arrow keys for resizing windows etc... It also changes the win + r function for run to alt + r. 
 
 For either script to work you need to follow these steps:
 1. Download autohotkey from: https://www.autohotkey.com/
