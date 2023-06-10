@@ -15,4 +15,7 @@ For either script to work you need to follow these steps:
 
 Due to limitations within autohotkey maintaining the standard windows key functionality along with this script is not possible (to my knowledge) hence using capslock as the alternative.
 
+Please be aware that using autohotkey and running script carry risks and running them without awareness of their functionality.
+
 Enjoy :)
+
