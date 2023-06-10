@@ -18,6 +18,7 @@ Due to limitations within autohotkey maintaining the standard windows key functi
 Please be aware that using autohotkey and running script carry risks and running them without awareness of their functionality.
 
 [Download winsearch.ahk](https://github.com/naomisilver/powertoys-search/blob/main/winsearch.ahk)
+
 [Download capslocksearch.ahk](https://github.com/naomisilver/powertoys-search/blob/main/capslocksearch.ahk)
 
 
